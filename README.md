@@ -24,11 +24,5 @@
   <h2 >Contato</h2>
    <a href="https://www.linkedin.com/in/iago-fernandes-083309207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:iago.avila@ufvjm.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></div> 
-  
-<div align="left" style="display: inline_block">
-  <a href="https://github.com/iagoMAF">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagoMAF&layout=compact&langs_count=7&theme=dracula" style="display: inline_block"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=iagoMAF&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="display: inline_block"/>
-</div>
 
 ![Snake animation](https://github.com/iagoMAF/iagoMAF/blob/output/github-contribution-grid-snake.svg)
